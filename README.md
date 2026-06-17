@@ -277,16 +277,16 @@ docker tag fit4110/iot-ingestion:lab04 ghcr.io/<owner>/team-iot:v0.1.0-team-iot
 ## 11. Artefact cần nộp
 
 ```text
-Dockerfile
-.dockerignore
-.env.example
-RUN_LOCAL.md
-contracts/<team>.openapi.yaml
-postman/collections/<team>.postman_collection.json
-postman/environments/<team>_local.postman_environment.json
-reports/newman-lab04-local.xml
-reports/newman-lab04-local.html
-ảnh chụp /health hoặc log container
+Dockerfile 
+.dockerignore 
+.env.example 
+RUN_LOCAL.md 
+contracts/<team>.openapi.yaml 
+postman/collections/<team>.postman_collection.json 
+postman/environments/<team>_local.postman_environment.json 
+reports/newman-lab04-local.xml 
+reports/newman-lab04-local.html 
+ảnh chụp /health hoặc log container 
 tag image đã push lên registry
 ```
 
